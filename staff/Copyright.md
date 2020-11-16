@@ -12,7 +12,7 @@ A staff member(staff) is someone brought on as a volunteer. They have applied fo
 <br>
 <h3 id="assets"><strong>Assets</strong></h3>
 
-Assets in this case represent anything a <a href="legal.aquahq.net/staff/Copyright#staff">staff member</a> may contribute, within reason. This includes but is not limited to:
+Assets in this case represent anything a <a href="https://legal.aquahq.net/staff/Copyright#staff">staff member</a> may contribute, within reason. This includes but is not limited to:
 - Buildings
     - All builds made on any AquaHQ Servers
 - Plugins made specifically for AquaHQ
